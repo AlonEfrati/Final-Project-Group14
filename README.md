@@ -1,7 +1,7 @@
 # Final-Project-Group14
 K&amp;D Final project assignment 
 For starting the application some requirements are needed.
-- graphDB
+- GraphDB
 - html,css and js editor (like visualstudiocode)
 
 Steps:
